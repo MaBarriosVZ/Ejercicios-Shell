@@ -1,4 +1,6 @@
 touch holamundo01.sh
 nano holamundo01.sh
+############
 echo holamundo!
+############
 ./holamundo01.sh
