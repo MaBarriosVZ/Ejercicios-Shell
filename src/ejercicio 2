@@ -1,6 +1,8 @@
 touch holamundo02.sh
 nano holamundo02.sh
+
 ################
+#Script
 echo hola *
 ################
 ./holamundo02.sh
