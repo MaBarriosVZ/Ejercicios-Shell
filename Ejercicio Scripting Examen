@@ -1,0 +1,8 @@
+Touch 01-hola-mundo.sh
+chmod u+x 01-hola-mundo.sh
+nano 01-hola-mundo.sh
+######################
+#!/bin/bash
+echo "hola mundo!"
+######################
+./01-hola-mundo.sh
